@@ -295,3 +295,4 @@ elif menu == "관리자":
 
 st.divider()
 st.caption("급식실 자리 예약 시스템")
+
